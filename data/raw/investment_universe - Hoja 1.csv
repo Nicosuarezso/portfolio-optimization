@@ -1,0 +1,34 @@
+ticker,asset_name,asset_class,sector
+NVDA,Nvidia,Equity - Large Cap,Semiconductors
+AAPL,Apple,Equity - Large Cap,Technology Hardware
+GOOGL,Alphabet (Google),Equity - Large Cap,Internet & Media
+AVGO,Broadcom,Equity - Large Cap,Semiconductors
+BRK-B,Berkshire Hathaway,Equity - Large Cap,Diversified Holdings
+MU,Micron Technology,Equity - Large Cap,Semiconductors
+LLY,Eli Lilly,Equity - Large Cap,Pharmaceuticals
+GE,General Electric,Equity - Large Cap,Industrials
+NEE,NextEra Energy,Equity - Growth,Renewable Energy
+GEV,GE Vernova,Equity - Growth,Renewable Energy
+BEP,Brookfield Renewable Partners,Equity - Growth,Renewable Energy
+UPS,United Parcel Service,Equity - Growth,Logistics
+FDX,FedEx,Equity - Growth,Logistics
+JBHT,J.B. Hunt Transport Services,Equity - Growth,Logistics
+GXO,GXO Logistics,Equity - Growth,Logistics
+W,Wayfair,Equity - Growth,E-commerce
+CHWY,Chewy,Equity - Growth,E-commerce
+RVLV,Revolve Group,Equity - Growth,E-commerce
+ETSY,Etsy,Equity - Growth,E-commerce
+COUR,Coursera,Equity - Growth,EdTech
+DUOL,Duolingo,Equity - Growth,EdTech
+UDMY,Udemy,Equity - Growth,EdTech
+PSO,Pearson,Equity - Growth,EdTech
+JPM,JPMorgan Chase,Equity - Established,Banking
+KO,Coca-Cola,Equity - Established,Consumer Staples
+MS,Morgan Stanley,Equity - Established,Financial Services
+PFE,Pfizer,Equity - Established,Pharmaceuticals
+DE,Deere & Company,Equity - Established,Industrials/Agriculture
+GC=F,Oro,Commodity,Metales Preciosos
+CL=F,Petróleo Crudo (WTI),Commodity,Energía
+KC=F,Café,Commodity,Agrícola
+CC=F,Cacao,Commodity,Agrícola
+IEF,iShares 7-10 Year Treasury Bond ETF,Bond,US Treasury
