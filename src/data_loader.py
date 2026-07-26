@@ -59,3 +59,18 @@ def save_dataset(
     )
 
     data.to_parquet(output_path)
+
+
+"""
+Function for loading datasets
+"""
+
+
+def load_dataset(
+    input_path: str,
+) -> pd.DataFrame:
+    """
+    Load a dataset stored as a Parquet file.
+    """
+
+    return pd.read_parquet(input_path)
